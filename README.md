@@ -4,7 +4,7 @@
 
 In this tutorial i have explained some of the jenkins pipleine concepts using a declarative pipeline.
 
-I have also shared the few of resources related to pipeline concepts it might help.
+I have also shared the few of resources below regarding to the pipeline concepts it might help.
 
 # Resources
 1. [Declarative Pipeline Concepts](https://www.lambdatest.com/blog/jenkins-declarative-pipeline-examples/).
